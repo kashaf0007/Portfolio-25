@@ -24,7 +24,6 @@ const skills: Skill[] = [
 
 const SkillsPage = () => {
   const circumference = 2 * Math.PI * 40;
-
   return (
     <motion.div
       initial={{ opacity: 0, y: 50 }}
