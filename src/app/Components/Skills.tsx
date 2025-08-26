@@ -93,8 +93,6 @@ const SkillsPage = () => {
     </motion.div>
   );
 };
-
-
 export default SkillsPage;
 
 
