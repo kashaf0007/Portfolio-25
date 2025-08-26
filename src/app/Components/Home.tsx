@@ -7,7 +7,6 @@ import React from 'react'
 const Homepage = () => {
   return (
     <main className="relative h-screen w-full bg-gray-900 flex items-center justify-center text-white overflow-hidden">
-
       <div className="absolute inset-0 bg-cyan-500/50 mix-blend-overlay z-0"></div>
 
       <motion.div

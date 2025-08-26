@@ -126,13 +126,10 @@ const Footer = () => {
           className="text-gray-500 text-4xl px-2 hover:text-cyan-700 transition"> 
           <FaSquareInstagram />
           </Link>
-     
       </span>
     </div>
   </div>
 </footer>
-
-   
   );
 };
 
