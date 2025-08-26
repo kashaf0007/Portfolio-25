@@ -59,7 +59,6 @@ const projects = [
     link: 'https://growth-mindset-as.streamlit.app/',
   },
 ]
-
 const ProjectsPage = () => {
   return (
     <main id='projects' className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-800 px-4 py-16 text-white">
