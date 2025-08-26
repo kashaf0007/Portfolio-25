@@ -16,7 +16,6 @@ const Homepage = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 1 }}
       >
-        
         <motion.div
           className="text-center md:text-left"
           initial={{ x: -50 }}

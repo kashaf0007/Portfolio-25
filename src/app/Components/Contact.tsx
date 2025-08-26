@@ -74,8 +74,6 @@ const Contact = () => {
          </p>    
          
           <span className="inline-flex">
-          
-           
            <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <Link href="https:www.facebook.com/share/1BsNiRk6z2"
           target="_blank"
