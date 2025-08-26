@@ -16,7 +16,6 @@ const Navbar = () => {
           <span className="ml-1 text-3xl font-extrabold text-purple-500">A</span>
           <span className="ml-1 text-3xl font-extrabold">MAN</span>
         </a>
-
         {/* Mobile toggle button */}
         <button
           onClick={() => setIsOpen(!isOpen)}
