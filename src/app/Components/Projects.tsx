@@ -105,5 +105,4 @@ const ProjectsPage = () => {
     </main>
   )
 }
-
 export default ProjectsPage
