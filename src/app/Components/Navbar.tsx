@@ -49,7 +49,6 @@ const Navbar = () => {
           <a href="#projects" className="  hover:text-white py-1">Projects</a>
           <Link href={"#Contact"} className="  hover:text-white py-1">Contact</Link>
         </nav>
-
         <div className="mt-4 md:mt-0">
           <button className="inline-flex items-center bg-gray-100 text-black border-1 border-blue-600 py-2 px-6 rounded-4xl hover:bg-cyan-500/50 hover:text-white text-l font-bold transition">
             Hire Me
